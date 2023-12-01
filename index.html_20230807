@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="./favicon.ico">
+<title>MIMOSA FESTA 2023 大切な人にミモザの花を</title>
+
+
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.min.css"/>
+<link rel="stylesheet" href="https://use.typekit.net/flt1noh.css">
+<link rel="stylesheet" type="text/css" href="./assets/css/style.css" />
+<link rel="stylesheet" type="text/css" href="./assets/css/import.css" />
+
+
+	<!-- Google Tag Manager -->
+	<script>
+		(function(w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(),
+				event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s),
+				dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-MH9L4LQ');
+	</script>
+	<!-- End Google Tag Manager -->
+
+
+</head>
+<body id="anchorTop" class="topPage">
+
+<div id="container">
+
+<!--ヘッダーインクルード-->
+<header id="header">
+<div id="headerTitle" class="clearfix">
+<h1 id="headerAreaLogo"><a href="./"><img src="./assets/img/common/logo_main-h.svg" alt="MIMOSA FESTA 2023"></a></h1>
+<ul class="header_sns">
+    <li class="">
+        <a href="https://line.me/R/ti/p/%40hdr3033n" target="_blank" rel="noopener"><img src="./assets/img/common/icon_line.svg" alt=""></a>
+    </li>
+    <li class="">
+        <a href="https://www.facebook.com/CINECITTADELLA" target="_blank" rel="noopener"><img src="./assets/img/common/icon_fb.svg" alt=""></a>
+    </li>
+    <li class="">
+        <a href="https://twitter.com/la_cittadella" target="_blank" rel="noopener"><img src="./assets/img/common/icon_tw.svg" alt=""></a>
+    </li>
+    <li class="">
+        <a href="https://www.instagram.com/cinecitta_lacittadella/" target="_blank" rel="noopener"><img src="./assets/img/common/icon_insta.svg" alt=""></a>
+    </li>
+    <li class="">
+        <a id="js_langubtn" target="_blank" rel="noopener"><img src="./assets/img/common/icon_language.svg" alt=""></a>
+        <ul class="head_langu_inner_opt js_languopen">
+            <li class="head_langu_inner_opt_item">
+                <a class="cl-norewrite cl-notranslate" href="https://lacittadella.co.jp/lp/mimosa/"><span>日本語</span></a></li>
+            <li class="head_langu_inner_opt_item">
+                <a class="cl-norewrite cl-notranslate" href="https://lacittadella.co.jp.e.aan.hp.transer.com/lp/mimosa/"><span>English</span></a>
+            </li>
+            <li class="head_langu_inner_opt_item">
+                <a class="cl-norewrite cl-notranslate" href="https://lacittadella.co.jp.c.aan.hp.transer.com/lp/mimosa/"><span>中文簡体</span></a>
+            </li>
+            <li class="head_langu_inner_opt_item">
+                <a class="cl-norewrite cl-notranslate" href="https://lacittadella.co.jp.t.aan.hp.transer.com/lp/mimosa/"><span>中文繁体</span></a>
+            </li>
+            <li class="head_langu_inner_opt_item">
+                <a class="cl-norewrite cl-notranslate" href="https://lacittadella.co.jp.k.aan.hp.transer.com/lp/mimosa/"><span>한국어</span></a>
+            </li>
+        </ul>
+    </li>
+</ul>
+</div>
+</header>
+
+<div id="catchArea">
+<p class="spNone"><img src="./assets/img/index/img_kv.jpg" alt=""></p>
+<p class="pcNone"><img src="./assets/img/index/img_kv_sp.jpg" alt=""></p>
+</div>
+	
+<div id="mainBg">
+
+<div id="contents">
+
+<!-- cont01 -->
+<section id="cont01">
+    <div class="cont01_bg_left">
+        <picture>
+            <source srcset="./assets/img/index/pic_mimosa02.png" media="(max-width: 1024px)">
+            <img src="./assets/img/index/pic_mimosa02.png" alt="">
+        </picture>
+    </div>
+    <div class="cont01_bg_right">
+        <picture>
+            <source srcset="./assets/img/index/pic_mimosa03.png" media="(max-width: 1024px)">
+            <img src="./assets/img/index/pic_mimosa03.png" alt="">
+        </picture>
+    </div>
+    <div class="maintitle"><h2><img src="./assets/img/common/logo_main-h.svg" alt="MIMOSA FESTA 2023" style="height: min(130px,20vw);"></h2></div>
+    <ul class="schedulebox01" style="border: 1px solid #dbdbdb;">
+        <li>
+            <p class="schedule_ttl">開催期間</p>
+            <p class="schedule_txt"><span style="font-size: 150%;">3月4日(土)~5日(日) 11:00~17:00</span><br><span class="">MIMOSA FAIR  2月10日(金)~3月12日(日) </span></p>
+        </li>
+    </ul>
+    <div>
+    <a href="./collaboration/#undercont01" class="flex_wrap bnr_wrap01">
+        <span class="flex_inner"><img src="./assets/img/index/top_monchhichibnr02.png" alt="mimosa monchhichi"></span>
+        <div class="title_wrap04">
+            <span class="">MIMOSA FESTA 2023<br class="pcNone">×<br class="pcNone">モンチッチ</span>
+            <h3>コラボイベント開催!</h3>
+            <p>2024年に誕生50周年のアニバーサリーイヤーを迎えるモンチッチと<br>MIMOSA FESTA 2023がコラボレーション！</p>
+            <div style="display: flex;justify-content: center;border: 1px solid;width: 90%;margin: 15px auto 0;padding: 5px;font-size: min(14px,3.2vw);">詳しくはこちら</div>
+        </div>
+    </a>
+    </div>
+    <!--<p class="body_txt01">今年は7商業施設で<span class="marker01">スタンプラリー</span>を開催</p>
+    <div class="logo_wrap">
+        <img src="./assets/img/common/1_azla.jpg">
+        <img src="./assets/img/common/2_atre.svg">
+        <img src="./assets/img/common/3_dice_logo_2021.svg">
+        <img src="./assets/img/common/4_k_mores_logo.svg">
+        <img src="./assets/img/common/5_lefront.svg">
+        <img src="./assets/img/common/6_lazona.svg">
+        <img src="./assets/img/common/7_lacittadella.svg">
+    </div>-->
+    <div style="display:none">
+    <p class="center body_txt02">『MIMOSA FESTA 2022』終了しました。<br>ご来場・ご参加いただいた皆さま、ありがとうございました。</p>
+    <p class="center body_txt02">オンラインコンテンツはアーカイブにて配信しております。<br>ぜひお楽しみください。</p>
+    <p class="center body_txt02">来年も皆さまにお会いできることを楽しみにしています。</p>
+    <p class="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/KOXcPEQ07vM?loop=1&amp;playlist=KOXcPEQ07vM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+    </div>
+</section>
+
+<!-- cont02 -->
+<section id="cont02">
+    <div class="flex_wrap about_wrap">
+        <div class="inner_left">
+            <picture>
+                <source srcset="./assets/img/index/pic_mimosa01_sp.jpg" media="(max-width: 1024px)">
+                <img src="./assets/img/index/pic_mimosa01.jpg" alt="">
+            </picture>
+        </div>
+        <div class="inner_right">
+            <div class="inner_right_textbox">
+                <div class="maintitle"><h2>ABOUT</h2></div>
+                <p>国際女性デーである3月8日、<br>
+イタリアでは“ミモザの日”と呼ばれています。<br>
+春の訪れを告げ、イタリアの街を鮮やかに彩る<br>
+美しく黄色いミモザの花を、大切な人へ、<br>
+愛や日頃の感謝の気持ちを込めて贈る習慣があります。<br>
+<br>
+イタリアの素敵な文化を広めたいという思いから、<br>
+ラ チッタデッラでは毎年ミモザのイベントを開催しています。<br></p>
+                <p><a href="https://lacittadella.co.jp/lp/mimosa/2022/" target="_blank" rel="noopener" class="defaultbtn defaultbtn__f18">
+                    <span>MIMOSA FESTA 2022 サイト</span>
+                    </a>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- cont03 -->
+<section id="cont03">
+
+<ul class="l_pagelist">
+						<li>
+							<div class="pagelist pagelist__fair">
+								<div class="pagelist_bg">
+									<div class="pagelist_bg_ye"></div>
+									<div class="pagelist_bg_bl"></div>
+								</div>
+                                <div class="pagelist_wrap">
+								<div class="pagelist_head">
+									<p class="pagelist_head_ruby">ミモザフェア</p>
+									<h3 class="pagelist_head_ttl">MIMOSA<br>FAIR</h3>
+								</div>
+								<div class="pagelist_body">
+									<p class="pagelist_body_txt">ラ チッタデッラのショップ連動企画。<br>春の訪れを感じさせる<br>スペシャルフェアです。</p>
+								</div>
+								<div class="pagelist_foot">
+									<div class="pagelist_foot_btn">
+										<div class="l_defaultbtn">
+											<a href="./mimosafair/" class="defaultbtn">
+												<span>詳細ページへ</span>
+											</a>
+										</div>
+									</div>
+								</div>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="pagelist pagelist__muse">
+								<div class="pagelist_bg">
+									<div class="pagelist_bg_ye"></div>
+									<div class="pagelist_bg_bl"></div>
+								</div>
+                                <div class="pagelist_wrap">
+								<div class="pagelist_head">
+									<p class="pagelist_head_ruby">ミューズ</p>
+									<h3 class="pagelist_head_ttl">MUSE</h3>
+								</div>
+								<div class="pagelist_body">
+									<p class="pagelist_body_txt">今年もミューズを迎え、<br>スペシャルトークライブを開催します。</p>
+								</div>
+								<div class="pagelist_foot">
+									<div class="pagelist_foot_btn">
+										<div class="l_defaultbtn">
+											<a href="./muse/" class="defaultbtn">
+												<span>詳細ページへ</span>
+											</a>
+										</div>
+									</div>
+								</div>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="pagelist pagelist__marche ">
+								<div class="pagelist_bg">
+									<div class="pagelist_bg_ye"></div>
+									<div class="pagelist_bg_bl"></div>
+								</div>
+                                <div class="pagelist_wrap">
+								<div class="pagelist_head">
+									<p class="pagelist_head_ruby">マルシェ</p>
+									<h3 class="pagelist_head_ttl">MARCHE</h3>
+								</div>
+								<div class="pagelist_body">
+									<p class="pagelist_body_txt">こだわり抜いたお店が<br>ずらりと並ぶマルシェは<br>まるでイタリアの青空市場のような雰囲気。</p>
+								</div>
+								<div class="pagelist_foot">
+									<div class="pagelist_foot_btn">
+										<div class="l_defaultbtn">
+											<a href="./marche/" class="defaultbtn">
+												<span>詳細ページへ</span>
+											</a>
+										</div>
+									</div>
+								</div>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="pagelist pagelist__photo">
+								<div class="pagelist_bg">
+									<div class="pagelist_bg_ye"></div>
+									<div class="pagelist_bg_bl"></div>
+								</div>
+                                <div class="pagelist_wrap">
+								<div class="pagelist_head">
+									<p class="pagelist_head_ruby">フォトコンテスト</p>
+                                    <h3 class="pagelist_head_ttl">PHOTO<br><span class="mini">&</span><br>REELS CONTEST</h3>
+								</div>
+								<div class="pagelist_body">
+									<p class="pagelist_body_txt">#ミモザフェスタ2023 を楽しむ<br>素敵な写真をご投稿ください。<br>抽選で豪華賞品プレゼント。</p>
+								</div>
+								<div class="pagelist_foot">
+									<div class="pagelist_foot_btn">
+										<div class="l_defaultbtn">
+											<a href="./photocontest/" class="defaultbtn">
+												<span>詳細ページへ</span>
+											</a>
+										</div>
+									</div>
+								</div>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="pagelist pagelist__special ">
+								<div class="pagelist_bg">
+									<div class="pagelist_bg_ye"></div>
+									<div class="pagelist_bg_bl"></div>
+								</div>
+                                <div class="pagelist_wrap">
+								<div class="pagelist_head">
+									<p class="pagelist_head_ruby">スタンプラリー</p>
+									<h3 class="pagelist_head_ttl">STAMP<br>RALLY</h3>
+								</div>
+								<div class="pagelist_body">
+									<p class="pagelist_body_txt">
+                                    スタンプを9個で応募可能!<br>川崎駅周辺を巡って、豪華景品が<br>当たる抽選に応募しよう。</p>
+								</div>
+								<div class="pagelist_foot">
+									<div class="pagelist_foot_btn">
+										<div class="l_defaultbtn">
+											<a href="./stamprally" class="defaultbtn">
+												<span>詳細ページへ</span>
+											</a>
+										</div>
+									</div>
+								</div>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="pagelist pagelist__kawasaki ">
+								<div class="pagelist_bg">
+									<div class="pagelist_bg_ye"></div>
+									<div class="pagelist_bg_bl"></div>
+								</div>
+                                <div class="pagelist_wrap">
+								<div class="pagelist_head">
+									<p class="pagelist_head_ruby">コラボイベント</p>
+									<h3 class="pagelist_head_ttl">COLLABO<br>RATION</h3>
+								</div>
+								<div class="pagelist_body">
+									<p class="pagelist_body_txt">
+                                    今年もたくさんのコラボが実現。<br>周辺施設との連動企画も<br>こちらからチェックできます。</p>
+								</div>
+								<div class="pagelist_foot">
+									<div class="pagelist_foot_btn">
+										<div class="l_defaultbtn">
+											<a href="./collaboration/" class="defaultbtn">
+												<span>詳細ページへ</span>
+											</a>
+										</div>
+									</div>
+								</div>
+                                </div>
+							</div>
+						</li>
+					</ul>
+
+</section>
+
+
+<section id="cont04">
+    <div class="maintitle02"><h2>MIMOSA<span class="spNone"> </span><br class="pcNone">FESTA<span class="spNone"> </span><br class="pcNone">2023</h2></div>
+    <div class="cont04_flex">
+    <div class="flex_wrap">
+        <div class="cont04_bg_left"></div>
+        <div class="flex_inner">
+            <div class="flex_inner_img"><img src="./assets/img/index/pic_item06.jpg" alt=""></div>
+        </div>
+        <div class="flex_inner">
+            <div class="flex_inner_txt">
+                <h3>LANGUAGE OF FLOWERS</h3>
+                <h4>「感謝」「エレガント」「秘密の愛」「友情」<br>「堅実」「思いやり」「豊かな感受性」</h4>
+                <p>大切な人、お世話になっている人へミモザの花を贈ってみませんか？</p>
+            </div>
+        </div>
+    </div>
+    </div>
+    <div class="cont04_flex">
+    <div class="flex_wrap reverse">
+        <div class="cont04_bg_right"></div>
+        <div class="flex_inner right">
+            <div class="flex_inner_txt">
+                <h3>MIMOSA IN BLOOM</h3>
+                <h4>ミモザで溢れるフォトジェニックな会場</h4>
+                <p>イベント期間中、イタリアのヒルタウンをモチーフに建てられた<br class="spNone">ラ チッタデッラが鮮やかなミモザイエローに染まります。</p>
+            </div>
+        </div>
+        <div class="flex_inner">
+            <div class="flex_inner_img"><img src="./assets/img/index/pic_item02.jpg" alt=""></div>
+        </div>
+    </div>
+    </div>
+    <div class="cont04_flex">
+    <div class="flex_wrap">
+        <div class="cont04_bg_left"></div>
+        <div class="flex_inner">
+            <div class="flex_inner_img"><img src="./assets/img/index/pic_item07.jpg" alt=""></div>
+        </div>
+        <div class="flex_inner">
+            <div class="flex_inner_txt">
+                <h3>ENJOY THE YELLOW</h3>
+                <h4>MIMOSA FESTA をもっと楽しく</h4>
+                <p>春にぴったりなイエローコーディネートで身も心も華やかに。</p>
+            </div>
+        </div>
+    </div>
+    </div>
+</section>
+
+
+<section id="cont05">
+
+    <div class="maintitle03"><h2>ACCESS</h2></div>
+    <div class="flex_wrap access_flex">
+        <div class="flex_inner"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6494.075968309178!2d139.697984!3d35.528059!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601860a250caa577%3A0x4e6d39b49674ca31!2zTEEgQ0lUVEFERUxMQe-8iOODqSDjg4Hjg4Pjgr_jg4fjg4Pjg6nvvIk!5e0!3m2!1sja!2sjp!4v1608105718837!5m2!1sja!2sjp" width="100%" height="280" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></div>
+        <div class="flex_inner">
+            <dl>
+                <dt>所在地</dt>
+                <dd>神奈川県川崎市川崎区小川町4-1<dd>
+            </dl>
+            <dl>
+                <dt>交通</dt>
+                <dd>JR川崎駅から徒歩5分 / 京急川崎駅から徒歩7分<dd>
+            </dl>
+            <dl>
+                <dt>お問い合わせ</dt>
+                <dd><a href="tel:044-233-1934">044-233-1934<span>（平日10:00〜18:00）</span></a><dd>
+            </dl>
+            <div class="address_btn">
+                <div class="l_defaultbtn">
+                    <a href="https://lacittadella.co.jp/access/" target="_blank" rel="noopener" class="defaultbtn defaultbtn__bk">
+                        <span>詳しくはこちらから</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+<section id="cont06">
+    <div class="maintitle03"><h2>EVENT OUTLINE</h2></div>
+    <div class="outline_body">
+        <dl>
+            <dt>主催</dt>
+            <dd>株式会社 チッタ エンタテイメント / <br class="pcNone">チネチッタ通り商店街振興組合</dd>
+            <dt>企画制作</dt>
+            <dd>株式会社STARMINE PLANNING</dd>
+            <dt>後援</dt>
+            <dd>川崎市 / イタリア大使館 / イタリア政府観光局 / 在日イタリア商工会議所<br>
+                <div class="flex_wrap outline_flex">
+                    <a href="https://www.city.kawasaki.jp/" target="_blank"><img src="./assets/img/index/img_kawasakishi.jpg"></a>
+                    <a href="https://ambtokyo.esteri.it/ja/" target="_blank"><img src="./assets/img/index/img_embassy.jpg"></a>
+                    <a href="https://www.italia.it/en" target="_blank"><img src="./assets/img/index/img_tourismbureau.jpg"></a>
+                </div>
+            </dd>
+            <dt>協賛・協力</dt>
+            <dd>アゼリア / アトレ川崎 / APEROL SPRiTZ / ウィングキッチン京急川崎  / 川崎市市制１００周年記念事業・全国都市緑化かわさきフェア実行委員会 / 川崎宿起立４００年プロジェクト推進会議 / 川崎住宅公園 / 川崎DICE / 川崎モアーズ /  川崎ルフロン / 京急電鉄 / コカ・コーラボトラーズジャパン /  THERMOS  / ジョセフ・ペリエ / slash 川崎 / ＳＯＭＰＯひまわり生命保険 / ダイニチ・コーポレーション / ハナノヒ Be / フェレロ ロシェ / 富士山の銘水 / マネードクター / ミューザ川崎 / ラゾーナ川崎プラザ
+                <br class="pc_br">
+                <br>
+                <div class="flex_wrap outline_flex">
+                    <a href="https://www.instagram.com/aperolspritzjp/" target="_blank"><img src="./assets/img/index/img_aperolspritz.jpg"></a>
+                    <a href="https://www.city.kawasaki.jp/kurashi/category/26-8-20-0-0-0-0-0-0-0.html" target="_blank"><img src="./assets/img/index/img_kawasakifair.jpg"></a>
+                    <a href="https://kawasakishuku400.jp/" target="_blank"><img src="./assets/img/index/img_400years.jpg"></a>
+                    <a href="https://www.housing-messe.com/kawasaki.html" target="_blank"><img src="./assets/img/index/img_jutakukouen.jpg"></a>
+                    <a href="https://www.cocacola.jp/" target="_blank"><img src="./assets/img/index/img_cocacola.jpg"></a>
+                    <a href="https://www.rakuten.ne.jp/gold/dainichi-corp/" target="_blank"><img src="./assets/img/index/img_dainichicorp.jpg"></a>
+                    <a href="https://www.shop.jal.co.jp/c/102035/?utm_source=mimosafesta2023&utm_medium=media&utm_campaign=josephperrier" target="_blank"><img src="./assets/img/index/img_josephperrier.jpg"></a>
+                    <a href="https://www.himawari-life.co.jp" target="_blank"><img src="./assets/img/index/img_sompo.jpg"></a>
+                    <a href="https://service.hananohi-be.com/" target="_blank"><img src="./assets/img/index/img_hananohi.jpg"></a>
+                    <a href="https://every.frecious.jp" target="_blank"><img src="./assets/img/index/img_everyfrecious.jpg"></a>
+                    <a><img src="./assets/img/index/img_moneydoctor.jpg"></a>
+                </div>
+            </dd>
+            <dt>お問い合わせ</dt>
+            <dd>株式会社 チッタ エンタテイメント　広報宣伝室　<br class="pcNone">event-info@citta-ent.co.jp</dd>
+        </dl>
+        <p class="outline_body_txt">※ムービー、スチールカメラでの撮影が入ります。撮影された素材は宣伝物などに使用される場合がございます。予めご了承ください。</p>
+        <p>
+            <a href="https://lacittadella.co.jp/lp/cittatime/" target="_blank">
+                <picture>
+                    <source srcset="./assets/img/index/cittatimebnrsp.jpg" media="(max-width: 1024px)">
+                    <img src="./assets/img/index/cittatimebnrpc.jpg" alt="close">
+                </picture>
+            </a>
+        </p>
+    </div>
+</section>
+
+</div>
+</div>
+
+<footer id="footer">
+    <div class="footer_logo_img">
+        <a href="https://lacittadella.co.jp/" target="_blank" rel="noopener">
+            <img src="./assets/img/common/footer_logo.svg" alt="LA CITTADELLA">
+        </a>
+    </div>
+    <div class="footer_sns">
+        <ul class="footer_sns_list">
+            <li class="footer_sns_list_item">
+                <a href="https://line.me/R/ti/p/%40hdr3033n" target="_blank" rel="noopener"><img src="./assets/img/common/icon_line_02.svg" alt=""></a>
+            </li>
+            <li class="footer_sns_list_item">
+                <a href="https://www.facebook.com/CINECITTADELLA" target="_blank" rel="noopener"><img src="./assets/img/common/icon_fb_02.svg" alt=""></a>
+            </li>
+            <li class="footer_sns_list_item">
+                <a href="https://twitter.com/la_cittadella" target="_blank" rel="noopener"><img src="./assets/img/common/icon_tw_02.svg" alt=""></a>
+            </li>
+            <li class="footer_sns_list_item">
+                <a href="https://www.instagram.com/cinecitta_lacittadella/" target="_blank" rel="noopener"><img src="./assets/img/common/icon_insta_02.svg" alt=""></a>
+            </li>
+        </ul>
+    </div>
+    <div class="footer_link">
+        <div class="footer_link_list">
+            <a href="https://lacittadella.co.jp/info/use/" target="_blank" rel="noopener"><span>取材依頼</span></a>
+            <a href="https://lacittadella.co.jp/sitepolicy/" target="_blank" rel="noopener"><span>サイトのご利用に関して</span></a>
+            <a href="https://lacittadella.co.jp/sitepolicy/" target="_blank" rel="noopener"><span>個人情報保護</span></a>
+            <a href="https://lacittadella.co.jp/enquiry/" target="_blank" rel="noopener"><span>お問い合わせ</span></a>
+        </div>
+    </div>
+    <div class="footer_copyright">
+        <p>Copyright© 2023 CITTA’ ENTERTAINMENT All Rights Reserved.</p>
+    </div>
+</footer>
+
+<!--<div id="footer_fixarea">
+<ul>
+	<li><a href="#contact"><img src="./assets/img/footer_btn1.png"></a></li>
+	<li><a href="tel:0120-829-874" class="tel_click"><img src="./assets/img/footer_btn2.png"></a></li>
+</ul>
+</div>-->
+<div class="pagetop"><img src="./assets/img/common/icon_pagetop.svg" alt="ページトップへ"></div>
+    <div>
+<div class="l_nav js_navbg is_hide" style="">
+			<nav class="nav js_nav is_hide">
+				<div class="nav_head js_navmove is_hide">
+					<div class="nav_head_ttl">
+						<a href="./"><img src="./assets/img/common/logo_main-h.svg" alt="MIMOSA FESTA 2023" style="height: 54px;"></a>
+					</div>
+				</div>
+				<div class="nav_body js_navmove is_hide">
+					<ul class="l_navlist">
+						<li>
+							<a href="./mimosafair" class="navlist navlist__falr">
+								<p class="navlist_ruby">ミモザフェア</p>
+								<div class="navlist_img">MIMOSA FAIR</div>
+							</a>
+						</li>
+						<li>
+							<a href="./muse/" class="navlist navlist__muse">
+								<p class="navlist_ruby">ミューズ</p>
+								<div class="navlist_img">MUSE</div>
+							</a>
+						</li>
+						<li>
+							<a href="./marche/" class="navlist navlist__marche">
+								<p class="navlist_ruby">マルシェ</p>
+								<div class="navlist_img">MARCHE</div>
+							</a>
+						</li>
+						<li>
+							<a href="./photocontest" class="navlist navlist__photo">
+								<p class="navlist_ruby">フォト&リールコンテスト</p>
+								<div class="navlist_img">PHOTO ＆ REELS CONTEST</div>
+							</a>
+						</li>
+						<li>
+							<a href="./stamprally" class="navlist navlist__special">
+								<p class="navlist_ruby">スタンプラリー</p>
+								<div class="navlist_img">STAMPRALLY</div>
+							</a>
+						</li>
+						<li>
+							<a href="./collaboration" class="navlist navlist__collabo navlist ">
+								<p class="navlist_ruby">コラボイベント</p>
+								<div class="navlist_img">COLLABORATION</div>
+							</a>
+						</li>
+						<li>
+							<a href="https://lacittadella.co.jp/access/" target="_blank" rel="noopener" class="navlist navlist__access">
+								<p class="navlist_ruby">アクセス</p>
+								<div class="navlist_img">ACCESS</div>
+							</a>
+						</li>
+					</ul>
+				</div>
+				<div class="nav_foot js_navmove is_hide">
+					<div class="nav_foot_hit js_hit" style="margin-top: 140px;"></div>
+					<div class="nav_foot_sns">
+						<ul class="l_snslist">
+							<li>
+								<a href="https://line.me/R/ti/p/%40hdr3033n" target="_blank" rel="noopener" class="snslist"><img src="./assets/img/common/icon_line.svg" alt=""></a>
+							</li>
+							<li>
+								<a href="https://www.facebook.com/CINECITTADELLA" target="_blank" rel="noopener" class="snslist"><img src="./assets/img/common/icon_fb.svg" alt=""></a>
+							</li>
+							<li>
+								<a href="https://twitter.com/la_cittadella" target="_blank" rel="noopener" class="snslist"><img src="./assets/img/common/icon_tw.svg" alt=""></a>
+							</li>
+							<li>
+								<a href="https://www.instagram.com/cinecitta_lacittadella/" target="_blank" rel="noopener" class="snslist"><img src="./assets/img/common/icon_insta.svg" alt=""></a>
+							</li>
+						</ul>
+					</div>
+					<div class="nav_foot_langu">
+						<div class="nav_foot_langu_img js_splangubtn">
+							<img src="./img/common/icon_language_sp.svg" alt="">
+						</div>
+					</div>
+					<p class="nav_foot_txt">Copyright© 2022 CITTA’ ENTERTAINMENT All Rights Reserved.</p>
+					<div class="nav_foot_txtsp">
+						<img src="./img/common/txt_foot_sp.svg" alt="">
+					</div>
+				</div>
+			</nav>
+		</div>
+    <div class="l_navbg js_navbg is_hide" style="">
+			<div class="navbg js_nav is_hide"></div>
+		</div>
+        <div class="l_navbtn">
+			<div class="navbtn">
+				<div class="navbtn_item js_opnebtn is_show">
+					<img src="./assets/img/common/icon_open.svg" alt="menu">
+				</div>
+				<div class="navbtn_item js_closebtn">
+
+					<picture>
+						<source srcset="./assets/img/common/icon_close_sp.svg" media="(max-width: 1024px)">
+						<img src="./assets/img/common/icon_close.svg" alt="close">
+					</picture>
+				</div>
+			</div>
+		</div>
+</div>
+
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<script type="text/javascript" src="./assets/js/cmn.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
+<script type="text/javascript">
+const observer = lozad();
+observer.observe();
+</script>
+<script>AOS.init();</script>
+
+</body>
+</html>

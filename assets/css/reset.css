@@ -1,0 +1,70 @@
+h1,h2,h3,h4,h5,h6 {
+  font-size: 100%;
+}
+
+a,
+a:visited,
+a:hover {
+text-decoration: none;
+}
+
+
+a,
+a:visited,
+a:hover {
+text-decoration: none;
+}
+
+BODY, H1, H2, H3, H4, H5, H6, P, TH, TD, OL, UL, LI, DL, DT, DD, FORM, PRE {
+margin: 0;
+padding: 0;
+}
+
+IMG {
+border: none;
+}
+OL {
+margin-left: 1em;
+padding-left: 1em;
+}
+UL {
+margin-left: 1em;
+padding-left: 1em;
+}
+HR {
+height: 1px;
+border-width: 0 0 1px;
+color: #000;
+}
+TABLE {
+border-collapse: collapse;
+}
+TH {
+text-align: left;
+font-weight: normal;
+}
+IMG {
+vertical-align: bottom;
+}
+INS {
+text-decoration: none;
+border-bottom: 1px dashed #cecece;
+}
+INS[datetaime]:before {
+content: "[ "attr(datetaime)" ]";
+color: #cecece;
+padding-right: 10px;
+}
+DEL {
+text-decoration: line-through;
+color: #ddd;
+}
+A {
+text-decoration: none;
+}
+A:visited {
+text-decoration: none;
+}
+A:hover {
+text-decoration: none;
+}

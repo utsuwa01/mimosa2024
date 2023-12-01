@@ -1,0 +1,10 @@
+@charset "utf-8";	/*使用する文字コード*/
+@import url("./reset.css");
+@import url("https://unpkg.com/aos@2.3.1/dist/aos.css");
+@import url("https://use.fontawesome.com/releases/v5.6.1/css/all.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css");
+@import url("https://fonts.googleapis.com/earlyaccess/notosansjp.css");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+/*スマホ対応*/
+@import url("./sp.css?20220624") screen and (max-width: 992px);
